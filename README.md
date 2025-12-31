@@ -22,7 +22,7 @@ A **production-ready**, highly scalable Node.js backend template built with **Ty
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/rajkishort596/Ts-Backend
 cd server
 npm install
 ```
